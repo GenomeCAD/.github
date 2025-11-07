@@ -1,4 +1,4 @@
-# GenomeCAD organisation
+# CAD Central Data Analyser organisation
 
 > soon
 
